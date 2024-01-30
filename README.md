@@ -1,1 +1,1 @@
-This is a backend api written in go
+Simple CRUD app
